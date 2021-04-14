@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C s'appelle Nouveau nom
+ Le num‚ro de s‚rie du volume est 1A11-454A
+
+ R‚pertoire de C:\Users\John\mesdepots\mypython
+
+13-04-21  16:14    <DIR>          .
+14-04-21  08:55    <DIR>          ..
+13-04-21  15:59                17 README.md
+13-04-21  16:14                 0 tata.txt
+13-04-21  16:00                 4 toto.txt
+               3 fichier(s)               21 octets
+               2 R‚p(s)  77.693.800.448 octets libres
