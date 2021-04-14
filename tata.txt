@@ -1,6 +1,6 @@
  Le volume dans le lecteur C s'appelle Nouveau nom
  Le num‚ro de s‚rie du volume est 1A11-454A
-
+=====================================================
  R‚pertoire de C:\Users\John\mesdepots\mypython
 
 13-04-21  16:14    <DIR>          .
