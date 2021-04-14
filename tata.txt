@@ -74,4 +74,5 @@ windir=C:\WINDOWS
                3 fichier(s)            4.253 octets
                2 R�p(s)  77.692.923.904 octets libres
 :( 
-=======================
+======================= ;)
+1) Windows
