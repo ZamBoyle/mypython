@@ -2,7 +2,7 @@ import math
 
 
 def RectanglePerimeter(_length, _width):
-    return 2 * _length + 2 * _width
+    return 2 * (_length + _width)
 
 
 def CirclePerimeter(_radius):
